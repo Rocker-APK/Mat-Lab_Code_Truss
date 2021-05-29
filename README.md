@@ -12,7 +12,7 @@ To Find:
   Support reactions.
   Bar forces and Bar Elongations.
  
-Assumptions
+Assumptions:
   All bars have same Axial Regidity.
   Take the member AC as 1st, BC as 2nd and AB as 3rd.
   
